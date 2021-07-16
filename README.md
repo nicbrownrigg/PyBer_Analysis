@@ -4,9 +4,9 @@
 The purpose of this project was to utilize Jupyter Notebook to visualize ridesharing data for urban, suburban, and rural sectors based on fare, driver counts, and ride counts through the construction of dataframes and using filtered data to create a multiple line chart through the code. This line chart was to compare the total fares by each city type and through utilizing groupby functions we were able to make our filtered dataframes for our calculations. By doing these calculations, we can visualize which areas are the most profitable as well as how distributed our markets are for our rideshares in terms of city types.
 
 ## Results
-As you can see with the chart data here: ![PyBer Chart Data](Resources/pyber chart.png)
+As you can see with the chart data here: ![PyBer Chart Data](Resources/pyber_chart.png)
 
-as well as our multiple line chart: ![PyBer Multiple Line Chrat](Resources/PyBer_graph.png)
+as well as our multiple line chart: ![PyBer Multiple Line Chart](Resources/PyBer_graph.png)
 
 
 through running our various filters on this project we were able to draw these specific conclusions about our distribution and differences in ride share data across the various city types:
