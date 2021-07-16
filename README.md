@@ -6,11 +6,11 @@ The purpose of this project was to utilize Jupyter Notebook to visualize ridesha
 ## Results
 As you can see with the chart data here: 
 
-![PyBer Chart Data](Resources/pyber_chart.png)
+![PyBer Chart Data](analysis/pyber_chart.png)
 
 as well as our multiple line chart: 
 
-![PyBer Multiple Line Chart](Resources/PyBer_graph.png)
+![PyBer Multiple Line Chart](analysis/PyBer_fare_summary.png)
 
 
 Through running our various filters on this project we were able to draw these specific conclusions about our distribution and differences in ride share data across the various city types:
